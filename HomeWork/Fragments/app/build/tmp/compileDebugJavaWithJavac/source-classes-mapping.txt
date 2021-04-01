@@ -1,0 +1,2 @@
+com/hympyt/bottomnav/BuildConfig.java
+ com.hympyt.bottomnav.BuildConfig
