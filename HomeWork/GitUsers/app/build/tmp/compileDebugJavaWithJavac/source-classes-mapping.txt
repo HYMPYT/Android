@@ -1,0 +1,16 @@
+com/hympyt/githubapi/room/UserDao_Impl.java
+ com.hympyt.githubapi.room.UserDao_Impl
+ com.hympyt.githubapi.room.UserDao_Impl$1
+ com.hympyt.githubapi.room.UserDao_Impl$2
+ com.hympyt.githubapi.room.UserDao_Impl$3
+ com.hympyt.githubapi.room.UserDao_Impl$4
+ com.hympyt.githubapi.room.UserDao_Impl$5
+com/hympyt/githubapi/databinding/UserCardBinding.java
+ com.hympyt.githubapi.databinding.UserCardBinding
+com/hympyt/githubapi/databinding/ActivityMainBinding.java
+ com.hympyt.githubapi.databinding.ActivityMainBinding
+com/hympyt/githubapi/BuildConfig.java
+ com.hympyt.githubapi.BuildConfig
+com/hympyt/githubapi/room/GitHubDatabase_Impl.java
+ com.hympyt.githubapi.room.GitHubDatabase_Impl
+ com.hympyt.githubapi.room.GitHubDatabase_Impl$1

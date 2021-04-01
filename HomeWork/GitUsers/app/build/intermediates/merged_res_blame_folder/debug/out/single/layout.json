@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Evgeniy\\Desktop\\Android_buffer\\Android-main\\HW\\lesson_07\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Evgeniy\\Desktop\\Android_buffer\\Android-main\\HW\\lesson_07\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Evgeniy\\Desktop\\Android_buffer\\Android-main\\HW\\lesson_07\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\user_card.xml",
+        "source": "C:\\Users\\Evgeniy\\Desktop\\Android_buffer\\Android-main\\HW\\lesson_07\\app\\src\\main\\res\\layout\\user_card.xml"
+    }
+]
